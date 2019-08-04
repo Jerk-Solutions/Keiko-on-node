@@ -1,0 +1,5 @@
+brosertype: seleniumhub
+hubUrl: ""
+os: win10
+browser: chrome@latest
+resolution: 1320x720

@@ -1,0 +1,4 @@
+brosertype: chrome
+driverPath: .\
+defaultWidth: 1320
+defaultHeight: 760
